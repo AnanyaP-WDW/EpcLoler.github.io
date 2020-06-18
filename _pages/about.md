@@ -1,6 +1,6 @@
 ---
 title: "About"
-permaloink: /about/
+permalink: /about/
 ---
 I'm a research assistant who likes to work at the intersection of Deep leanring, Healthcare  and Medicine.
 Presently I am working on clinical named entity recognition and knowledge graphs.
