@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 ---
-I'm a research assistant who likes to work at the intersection of Deep leanring, Healthcare  and Medicine.
-Presently I am working on clinical named entity recognition and knowledge graphs.
-If you are interetsed to discuss Healthcare/ Medicine + AI, just drop me a mail or message me on LinkedIn.
-I'll get back to ASAP.
+I am a machine learning engineer with 3+ years of experience working with national and international startups, SME's and research laboratories. I am a technology buff who enjoys solving complex problems and contributing to open source projects. My interest lies in deep learning, biotech and finance. Some interesting problems that I have worked on in the past are in automating medical claim inspections, user experience extraction systems and genetic analysis of complex diseases. Broadly speaking, I have experience in building solutions around data. In my free time, I like to do standups, dramatics and analyse football games.
+
+Feel free to get in touch with me to discuss interesting ideas in applied machine learning, intellectual property or football. Cheers! 
